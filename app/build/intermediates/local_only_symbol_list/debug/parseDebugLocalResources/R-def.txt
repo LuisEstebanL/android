@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+color bg_body
+color bg_card
+color bg_darkest
+color flame_accent
+color flame_primary
+color gold_accent
+color gold_primary
+color text_white
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string call_waiter
+string table_name
+string table_status
+style Theme.SemBanhaSmokehouse
